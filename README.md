@@ -1,2 +1,6 @@
 # hello-world
-Just python reposittory
+Just python repository
+
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+# Author:Eric liu
